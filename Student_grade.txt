@@ -1,0 +1,13 @@
+Grade for make file execution (Out of 10): 10
+Grade for inputs arguments and their constraints (Out of 10) : 0
+Correct/working  MetaData File (Out of 15): 0
+Correct Lock configuration (Out of 15): 0
+Correct Global Point Checking (Out of 20): 0
+Correct Output File (Out of 10): 0
+Total Grade is  : 10/80
+TA NAME  : Himalya
+Comment : Please visit TA programming OH and get more help on assignments
+*******************
+*******************************Failed Test cases in case of deducted marks**************************>******************************
+User inputted input file cannot be read. Please create a piazza post if working on your machine
+********************end of file**************************************************
